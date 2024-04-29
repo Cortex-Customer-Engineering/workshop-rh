@@ -2,7 +2,7 @@ openapi: 3.0.1
 info:
   title: workshop-rh
   description: RH Example!
-  x-cortex-tag: workshop-rh
+  x-cortex-tag:
   x-cortex-type: service
   x-cortex-owners: 
   - type: EMAIL
