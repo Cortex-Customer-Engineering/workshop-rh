@@ -1,7 +1,7 @@
 openapi: 3.0.1
 info:
   title: workshop-rh
-  description: Working toward solving customer issues.
+  description: RH Example!
   x-cortex-tag: 
   x-cortex-type: service
   x-cortex-owners:
