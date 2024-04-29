@@ -2,7 +2,7 @@ openapi: 3.0.1
 info:
   title: workshop-vt
   description: Working toward solving customer issues.
-  x-cortex-tag: workshop-vt
+  x-cortex-tag: 
   x-cortex-type: service
   x-cortex-owners:
   - type: EMAIL
