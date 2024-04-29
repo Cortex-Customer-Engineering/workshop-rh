@@ -4,7 +4,7 @@ info:
   description: RH Example!
   x-cortex-tag: 
   x-cortex-type: service
-  x-cortex-owners:
+  x-cortex-owners: workshop-rh
   - type: EMAIL
     email: randy.herasme@cortex.io
   x-cortex-git:
