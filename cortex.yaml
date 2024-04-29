@@ -1,13 +1,13 @@
 openapi: 3.0.1
 info:
-  title: workshop-rh
+  title: workshop-vt
   description: Working toward solving customer issues.
-  x-cortex-tag: workshop-rh
+  x-cortex-tag: workshop-vt
   x-cortex-type: service
   x-cortex-owners:
   - type: EMAIL
     email: randy.herasme@cortex.io
   x-cortex-git:
     github:
-      repository: Cortex-Customer-Engineering/workshop-rh
+      repository: Cortex-Customer-Engineering/workshop-vt
       alias: default
